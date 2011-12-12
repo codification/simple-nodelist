@@ -11,6 +11,9 @@ over SSH using pallet and my macbook.
 * change local-files/example1.txt
 * lein run
 
+P.S.: If you want to run it using a REPL (like with swank and emacs), 
+logs will end up in the "logs" directory.
+
 ## License
 
 Copyright (C) 2011 Anyone
