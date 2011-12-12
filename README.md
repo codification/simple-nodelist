@@ -8,6 +8,7 @@ over SSH using pallet and my macbook.
 * Make sure you have a spare account that can be ssh:ed into
 * Change the ACCOUNT def in src/nodelist/core.clj to match
 * lein run
+* Expect the directory "~/remote-files" under the account you specified to exist and have some content
 * change local-files/example1.txt
 * lein run
 
